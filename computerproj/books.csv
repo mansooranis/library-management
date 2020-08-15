@@ -1,0 +1,99 @@
+id,name,"authorname",genre
+2,Fundamentals of Wavelets,"Goswami, Jaideva",tech
+3,Data Smart,"Foreman, John",tech
+4,God Created the Integers,"Hawking, Stephen",tech
+5,Superfreakonomics,"Dubner, Stephen",science
+6,Orientalism,"Said, Edward",nonfiction
+7,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",tech
+8,Integration of the Indian States,"Menon, V P",nonfiction
+9,"Drunkard's Walk, The","Mlodinow, Leonard",science
+10,Image Processing & Mathematical Morphology,"Shih, Frank",tech
+11,How to Think Like Sherlock Holmes,"Konnikova, Maria",nonfiction
+12,Data Scientists at Work,Sebastian Gutierrez,tech
+13,Slaughterhouse Five,"Vonnegut, Kurt",fiction
+14,Birth of a Theorem,"Villani, Cedric",science
+15,Structure & Interpretation of Computer Programs,"Sussman, Gerald",tech
+16,"Age of Wrath, The","Eraly, Abraham",nonfiction
+17,"Trial, The","Kafka, Frank",fiction
+18,Statistical Decision Theory',"Pratt, John",tech
+19,Data Mining Handbook,"Nisbet, Robert",tech
+20,"New Machiavelli, The","Wells, H. G.",fiction
+21,Physics & Philosophy,"Heisenberg, Werner",philosophy
+22,Making Software,"Oram, Andy",tech
+23,"Analysis, Vol I","Tao, Terence",tech
+24,Machine Learning for Hackers,"Conway, Drew",tech
+25,"Signal and the Noise, The","Silver, Nate",tech
+26,Python for Data Analysis,"McKinney, Wes",tech
+27,Introduction to Algorithms,"Cormen, Thomas",tech
+28,"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction
+29,"Outsider, The","Camus, Albert",fiction
+30,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction
+31,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction
+32,"Wealth of Nations, The","Smith, Adam",science
+33,"Pillars of the Earth, The","Follett, Ken",fiction
+34,Mein Kampf,"Hitler, Adolf",nonfiction
+35,"Tao of Physics, The","Capra, Fritjof",science
+36,Surely You're Joking Mr Feynman,"Feynman, Richard",science
+37,"Farewell to Arms, A","Hemingway, Ernest",fiction
+38,"Veteran, The","Forsyth, Frederick",fiction
+39,False Impressions,"Archer, Jeffery",fiction
+40,"Last Lecture, The","Pausch, Randy",nonfiction
+41,Return of the Primitive,"Rand, Ayn",philosophy
+42,Jurassic Park,"Crichton, Michael",fiction
+43,"Russian Journal, A","Steinbeck, John",nonfiction
+44,Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction
+45,Freakonomics,"Dubner, Stephen",science
+46,"Hidden Connections, The","Capra, Fritjof",science
+47,"Story of Philosophy, The","Durant, Will",philosophy
+48,Asami Asami,"Deshpande, P L",fiction
+49,Journal of a Novel,"Steinbeck, John",fiction
+50,Once There Was a War,"Steinbeck, John",nonfiction
+51,"Moon is Down, The","Steinbeck, John",fiction
+52,"Brethren, The","Grisham, John",fiction
+53,In a Free State,"Naipaul, V. S.",fiction
+54,Catch 22,"Heller, Joseph",fiction
+55,"Complete Mastermind, The",BBC,nonfiction
+56,Dylan on Dylan,"Dylan, Bob",nonfiction
+57,Soft Computing & Intelligent Systems,"Gupta, Madan",tech
+58,Textbook of Economic Theory,"Stonier, Alfred",tech
+59,Econometric Analysis,"Greene, W. H.",tech
+60,Learning OpenCV,"Bradsky, Gary",tech
+61,Data Structures Using C & C++,"Tanenbaum, Andrew",tech
+62,"Computer Vision, A Modern Approach","Forsyth, David",tech
+63,Principles of Communication Systems,"Taub, Schilling",tech
+64,Let Us C,"Kanetkar, Yashwant",tech
+65,"Amulet of Samarkand, The","Stroud, Jonathan",fiction
+66,Crime and Punishment,"Dostoevsky, Fyodor",fiction
+67,Angels & Demons,"Brown, Dan",fiction
+68,"Argumentative Indian, The","Sen, Amartya",nonfiction
+69,Sea of Poppies,"Ghosh, Amitav",fiction
+70,"Idea of Justice, The","Sen, Amartya",philosophy
+71,"Raisin in the Sun, A","Hansberry, Lorraine",fiction
+72,All the President's Men,"Woodward, Bob",nonfiction
+73,"Prisoner of Birth, A","Archer, Jeffery",fiction
+74,Scoop!,"Nayar, Kuldip",nonfiction
+75,Ahe Manohar Tari,"Deshpande, Sunita",nonfiction
+76,"Last Mughal, The","Dalrymple, William",nonfiction
+77,"Social Choice & Welfare, Vol 39 No. 1",Various,tech
+78,Radiowaril Bhashane & Shrutika,"Deshpande, P L",nonfiction
+79,Gun Gayin Awadi,"Deshpande, P L",nonfiction
+80,Aghal Paghal,"Deshpande, P L",nonfiction
+81,Maqta-e-Ghalib,"Garg, Sanjay",nonfiction
+82,Manasa,"Kale, V P",nonfiction
+83,India from Midnight to Milennium,"Tharoor, Shashi",nonfiction
+84,"Great Indian Novel, The","Tharoor, Shashi",fiction
+85,O Jerusalem!,"Lapierre, Dominique",nonfiction
+86,"City of Joy, The","Lapierre, Dominique",fiction
+87,Freedom at Midnight,"Lapierre, Dominique",nonfiction
+88,"Winter of Our Discontent, The","Steinbeck, John",fiction
+89,On Education,"Russell, Bertrand",philosophy
+90,Free Will,"Harris, Sam",nonfiction
+91,Bookless in Baghdad,"Tharoor, Shashi",nonfiction
+92,"Case of the Lame Canary, The","Gardner, Earle Stanley",fiction
+93,"Theory of Everything, The","Hawking, Stephen",science
+94,New Markets & Other Essays,"Drucker, Peter",science
+95,Electric Universe,"Bodanis, David",science
+96,"Hunchback of Notre Dame, The","Hugo, Victor",fiction
+97,Burning Bright,"Steinbeck, John",fiction
+98,"Age of Discontuinity, The","Drucker, Peter",nonfiction
+99,Doctor in the Nude,"Gordon, Richard",fiction

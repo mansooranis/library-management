@@ -1,0 +1,54 @@
+id,name,authorname,genre
+53,Fundamentals of Wavelets,"Goswami, Jaideva",tech
+54,Data Smart,"Foreman, John",tech
+55,God Created the Integers,"Hawking, Stephen",tech
+56,Superfreakonomics,"Dubner, Stephen",science
+57,Orientalism,"Said, Edward",nonfiction
+58,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",tech
+59,Integration of the Indian States,"Menon, V P",nonfiction
+60,"Drunkard's Walk, The","Mlodinow, Leonard",science
+61,Image Processing & Mathematical Morphology,"Shih, Frank",tech
+62,How to Think Like Sherlock Holmes,"Konnikova, Maria",nonfiction
+63,Data Scientists at Work,Sebastian Gutierrez,tech
+64,Slaughterhouse Five,"Vonnegut, Kurt",fiction
+65,Birth of a Theorem,"Villani, Cedric",science
+66,Structure & Interpretation of Computer Programs,"Sussman, Gerald",tech
+67,"Age of Wrath, The","Eraly, Abraham",nonfiction
+68,"Trial, The","Kafka, Frank",fiction
+69,Statistical Decision Theory',"Pratt, John",tech
+70,Data Mining Handbook,"Nisbet, Robert",tech
+71,"New Machiavelli, The","Wells, H. G.",fiction
+72,Physics & Philosophy,"Heisenberg, Werner",philosophy
+73,Making Software,"Oram, Andy",tech
+74,"Analysis, Vol I","Tao, Terence",tech
+75,Machine Learning for Hackers,"Conway, Drew",tech
+76,"Signal and the Noise, The","Silver, Nate",tech
+77,Python for Data Analysis,"McKinney, Wes",tech
+78,Introduction to Algorithms,"Cormen, Thomas",tech
+79,"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction
+80,"Outsider, The","Camus, Albert",fiction
+81,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction
+82,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction
+83,"Wealth of Nations, The","Smith, Adam",science
+84,"Pillars of the Earth, The","Follett, Ken",fiction
+85,Mein Kampf,"Hitler, Adolf",nonfiction
+86,"Tao of Physics, The","Capra, Fritjof",science
+87,Surely You're Joking Mr Feynman,"Feynman, Richard",science
+88,"Farewell to Arms, A","Hemingway, Ernest",fiction
+89,"Veteran, The","Forsyth, Frederick",fiction
+90,False Impressions,"Archer, Jeffery",fiction
+91,"Last Lecture, The","Pausch, Randy",nonfiction
+92,Return of the Primitive,"Rand, Ayn",philosophy
+93,Jurassic Park,"Crichton, Michael",fiction
+94,"Russian Journal, A","Steinbeck, John",nonfiction
+95,Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction
+96,Freakonomics,"Dubner, Stephen",science
+97,"Hidden Connections, The","Capra, Fritjof",science
+98,"Story of Philosophy, The","Durant, Will",philosophy
+99,Asami Asami,"Deshpande, P L",fiction
+100,Journal of a Novel,"Steinbeck, John",fiction
+101,Once There Was a War,"Steinbeck, John",nonfiction
+102,"Moon is Down, The","Steinbeck, John",fiction
+103,"Brethren, The","Grisham, John",fiction
+104,In a Free State,"Naipaul, V. S.",fiction
+105,Catch 22,"Heller, Joseph",fiction
