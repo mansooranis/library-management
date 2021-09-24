@@ -1,6 +1,6 @@
 A simple desktop application created using python
 
-main.py contains the whole project
+main.py contains the entire project
 
 server.py in the root folder is the main server
 
