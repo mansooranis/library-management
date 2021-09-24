@@ -1,4 +1,4 @@
-Hi this is a simple desktop application created using python
+A simple desktop application created using python
 
 main.py contains the whole project
 
